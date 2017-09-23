@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">monitordidi</string>
+    <string name="author">Diana Tudor</string>
+    <string name="single_monitor">single_monitor</string>
+    <string name="lista_monitoare">lista_monitoare</string>
+    <string name="monitor_de_editat">monitor_de_editat</string>
+    <string name="este_editabil">este_editabil</string>
+
+    <string name="registerMonitorBtn">Register Monitor</string>
+    <string name="monitorsListBtn">Monitors list</string>
+    <string name="loadMonitorsBtn">Load Monitors (Json/XML)</string>
+    <string name="reportBtn">Report</string>
+    <string name="aboutBtn">About</string>
+</resources>

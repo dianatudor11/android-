@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="ServiceNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/serviceNumberCusto" />
+
+    <TextView
+        android:text="Producer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView8" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/producerCustom" />
+
+    <TextView
+        android:text="Diagonal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView10" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/diagonalCustom" />
+
+    <TextView
+        android:text="Owner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/c" />
+
+    <TextView
+        android:text="ownerCustom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ownerCustom" />
+
+    <TextView
+        android:text="Service date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView14" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/serviceDateCustom" />
+
+
+</LinearLayout>
